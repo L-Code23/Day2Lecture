@@ -1,0 +1,14 @@
+C:\Users\ramse\source\repos\Day 2 Lecture\Day 2 Lecture\bin\Debug\net8.0\Day 2 Lecture.exe
+C:\Users\ramse\source\repos\Day 2 Lecture\Day 2 Lecture\bin\Debug\net8.0\Day 2 Lecture.deps.json
+C:\Users\ramse\source\repos\Day 2 Lecture\Day 2 Lecture\bin\Debug\net8.0\Day 2 Lecture.runtimeconfig.json
+C:\Users\ramse\source\repos\Day 2 Lecture\Day 2 Lecture\bin\Debug\net8.0\Day 2 Lecture.dll
+C:\Users\ramse\source\repos\Day 2 Lecture\Day 2 Lecture\bin\Debug\net8.0\Day 2 Lecture.pdb
+C:\Users\ramse\source\repos\Day 2 Lecture\Day 2 Lecture\obj\Debug\net8.0\Day 2 Lecture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramse\source\repos\Day 2 Lecture\Day 2 Lecture\obj\Debug\net8.0\Day 2 Lecture.AssemblyInfoInputs.cache
+C:\Users\ramse\source\repos\Day 2 Lecture\Day 2 Lecture\obj\Debug\net8.0\Day 2 Lecture.AssemblyInfo.cs
+C:\Users\ramse\source\repos\Day 2 Lecture\Day 2 Lecture\obj\Debug\net8.0\Day 2 Lecture.csproj.CoreCompileInputs.cache
+C:\Users\ramse\source\repos\Day 2 Lecture\Day 2 Lecture\obj\Debug\net8.0\Day 2 Lecture.dll
+C:\Users\ramse\source\repos\Day 2 Lecture\Day 2 Lecture\obj\Debug\net8.0\refint\Day 2 Lecture.dll
+C:\Users\ramse\source\repos\Day 2 Lecture\Day 2 Lecture\obj\Debug\net8.0\Day 2 Lecture.pdb
+C:\Users\ramse\source\repos\Day 2 Lecture\Day 2 Lecture\obj\Debug\net8.0\Day 2 Lecture.genruntimeconfig.cache
+C:\Users\ramse\source\repos\Day 2 Lecture\Day 2 Lecture\obj\Debug\net8.0\ref\Day 2 Lecture.dll
